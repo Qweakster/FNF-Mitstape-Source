@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tapeBG.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- "Or it would be, if I had Adobe Animate. Notepad works too, though."-->
+	<SubTexture name="tapeREEL0000" x="0" y="0" width="1280" height="421"/>
+	<SubTexture name="tapeREEL0001" x="1280" y="0" width="1280" height="421"/>
+	<SubTexture name="tapeREEL0002" x="2560" y="0" width="1280" height="421"/>
+	<SubTexture name="tapeREEL0003" x="3840" y="0" width="1280" height="421"/>
+	<SubTexture name="tapeREEL0004" x="5120" y="0" width="1280" height="421"/>
+</TextureAtlas>

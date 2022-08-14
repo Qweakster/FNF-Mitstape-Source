@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ANNE_ASSETS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- "Or it would be, if I had Adobe Animate. Notepad works too, though."-->
+	<SubTexture name="Fai idle dance0000" x="0" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0001" x="0" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0002" x="340" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0003" x="340" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0004" x="680" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0005" x="680" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0006" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0007" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0008" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0009" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	
+</TextureAtlas>

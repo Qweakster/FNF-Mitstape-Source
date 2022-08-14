@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				17,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Fai Sing Note UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Fai idle dance"
+		},
+		{
+			"offsets": [
+				-22,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Fai Sing Note RIGHT0"
+		},
+		{
+			"offsets": [
+				130,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Fai Sing Note LEFT0"
+		},
+		{
+			"offsets": [
+				-2,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Fai Sing Note DOWN0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FAI_ASSETS",
+	"position": [
+		60,
+		190
+	],
+	"healthicon": "fai",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		73,
+		180
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Anne ok0",
+	"idle_anim": "Fai idle dance0",
+	"position": [
+		98,
+		109
+	],
+	"scale": 0.6,
+	"image": "FAI_MENU_ASSETS",
+	"flipX": false
+}

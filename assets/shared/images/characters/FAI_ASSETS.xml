@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ANNE_ASSETS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- "Or it would be, if I had Adobe Animate. Notepad works too, though."-->
+	<SubTexture name="Fai Sing Note DOWN0000" x="0" y="2269" width="333" height="554" frameX="0" frameY="0" frameWidth="333" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note DOWN0001" x="0" y="2269" width="333" height="554" frameX="0" frameY="0" frameWidth="333" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note DOWN0002" x="333" y="2269" width="333" height="554" frameX="0" frameY="0" frameWidth="333" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note DOWN0003" x="333" y="2269" width="333" height="554" frameX="0" frameY="0" frameWidth="333" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note DOWN0004" x="666" y="2269" width="333" height="554" frameX="0" frameY="0" frameWidth="333" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note DOWN0005" x="666" y="2269" width="333" height="554" frameX="0" frameY="0" frameWidth="333" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note DOWN0006" x="666" y="2269" width="333" height="554" frameX="0" frameY="0" frameWidth="333" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note DOWN0007" x="666" y="2269" width="333" height="554" frameX="0" frameY="0" frameWidth="333" frameHeight="554"/>
+
+	<SubTexture name="Fai Sing Note RIGHT0000" x="0" y="566" width="344" height="606" frameX="0" frameY="0" frameWidth="344" frameHeight="606"/>
+	<SubTexture name="Fai Sing Note RIGHT0001" x="0" y="566" width="344" height="606" frameX="0" frameY="0" frameWidth="344" frameHeight="606"/>
+	<SubTexture name="Fai Sing Note RIGHT0002" x="344" y="566" width="344" height="606" frameX="0" frameY="0" frameWidth="344" frameHeight="606"/>
+	<SubTexture name="Fai Sing Note RIGHT0003" x="344" y="566" width="344" height="606" frameX="0" frameY="0" frameWidth="344" frameHeight="606"/>
+	<SubTexture name="Fai Sing Note RIGHT0004" x="688" y="566" width="344" height="606" frameX="0" frameY="0" frameWidth="344" frameHeight="606"/>
+	<SubTexture name="Fai Sing Note RIGHT0005" x="688" y="566" width="344" height="606" frameX="0" frameY="0" frameWidth="344" frameHeight="606"/>
+	<SubTexture name="Fai Sing Note RIGHT0006" x="688" y="566" width="344" height="606" frameX="0" frameY="0" frameWidth="344" frameHeight="606"/>
+	<SubTexture name="Fai Sing Note RIGHT0007" x="688" y="566" width="344" height="606" frameX="0" frameY="0" frameWidth="344" frameHeight="606"/>
+	
+	<SubTexture name="Fai Sing Note LEFT0000" x="0" y="1172" width="451" height="554" frameX="0" frameY="0" frameWidth="451" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note LEFT0001" x="0" y="1172" width="451" height="554" frameX="0" frameY="0" frameWidth="451" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note LEFT0002" x="451" y="1172" width="451" height="554" frameX="0" frameY="0" frameWidth="451" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note LEFT0003" x="451" y="1172" width="451" height="554" frameX="0" frameY="0" frameWidth="451" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note LEFT0004" x="902" y="1172" width="451" height="554" frameX="0" frameY="0" frameWidth="451" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note LEFT0005" x="902" y="1172" width="451" height="554" frameX="0" frameY="0" frameWidth="451" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note LEFT0006" x="902" y="1172" width="451" height="554" frameX="0" frameY="0" frameWidth="451" frameHeight="554"/>
+	<SubTexture name="Fai Sing Note LEFT0007" x="902" y="1172" width="451" height="554" frameX="0" frameY="0" frameWidth="451" frameHeight="554"/>
+
+	<SubTexture name="Fai Sing Note UP0000" x="0" y="1726" width="382" height="543" frameX="0" frameY="0" frameWidth="382" frameHeight="543"/>
+	<SubTexture name="Fai Sing Note UP0001" x="0" y="1726" width="382" height="543" frameX="0" frameY="0" frameWidth="382" frameHeight="543"/>
+	<SubTexture name="Fai Sing Note UP0002" x="382" y="1726" width="382" height="543" frameX="0" frameY="0" frameWidth="382" frameHeight="543"/>
+	<SubTexture name="Fai Sing Note UP0003" x="382" y="1726" width="382" height="543" frameX="0" frameY="0" frameWidth="382" frameHeight="543"/>
+	<SubTexture name="Fai Sing Note UP0004" x="764" y="1726" width="382" height="543" frameX="0" frameY="0" frameWidth="382" frameHeight="543"/>
+	<SubTexture name="Fai Sing Note UP0005" x="764" y="1726" width="382" height="543" frameX="0" frameY="0" frameWidth="382" frameHeight="543"/>
+	<SubTexture name="Fai Sing Note UP0006" x="764" y="1726" width="382" height="543" frameX="0" frameY="0" frameWidth="382" frameHeight="543"/>
+	<SubTexture name="Fai Sing Note UP0007" x="764" y="1726" width="382" height="543" frameX="0" frameY="0" frameWidth="382" frameHeight="543"/>
+	
+
+
+	<SubTexture name="Fai idle dance0000" x="0" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0001" x="0" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0002" x="340" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0003" x="340" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0004" x="680" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0005" x="680" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0006" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0007" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0008" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0009" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0010" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0011" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0012" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0013" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0014" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0015" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0016" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	<SubTexture name="Fai idle dance0017" x="1020" y="0" width="340" height="566" frameX="0" frameY="0" frameWidth="340" frameHeight="566"/>
+	
+</TextureAtlas>

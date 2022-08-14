@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF-ANNE_DEAD.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- "Or it would be, if I had Adobe Animate. Notepad works too, though."-->
+	<SubTexture name="Anne firstDEATH0000" x="0" y="2571" width="568" height="541"/>
+	<SubTexture name="Anne firstDEATH0001" x="0" y="2571" width="568" height="541"/>
+	<SubTexture name="Anne firstDEATH0002" x="568" y="2571" width="568" height="541"/>
+	<SubTexture name="Anne firstDEATH0003" x="568" y="2571" width="568" height="541"/>
+	<SubTexture name="Anne firstDEATH0004" x="1136" y="2571" width="568" height="541"/>
+	<SubTexture name="Anne firstDEATH0005" x="1136" y="2571" width="568" height="541"/>
+	<SubTexture name="Anne firstDEATH0006" x="1704" y="2571" width="568" height="541"/>
+	<SubTexture name="Anne firstDEATH0007" x="1704" y="2571" width="568" height="541"/>
+
+	<SubTexture name="Anne deathLOOP0000" x="0" y="3112" width="575" height="549"/>
+	<SubTexture name="Anne deathLOOP0001" x="575" y="3112" width="575" height="549"/>
+	<SubTexture name="Anne deathLOOP0002" x="1150" y="3112" width="575" height="549"/>
+	<SubTexture name="Anne deathLOOP0003" x="1725" y="3112" width="575" height="549"/>
+	<SubTexture name="Anne deathLOOP0004" x="2300" y="3112" width="575" height="549"/>
+
+</TextureAtlas>

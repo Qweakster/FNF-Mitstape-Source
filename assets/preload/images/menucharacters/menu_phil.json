@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Anne ok0",
+	"idle_anim": "Phil Dancing Beat0",
+	"position": [
+		161,
+		104
+	],
+	"scale": 0.55,
+	"image": "PHIL_MENU_ASSETS",
+	"flipX": false
+}

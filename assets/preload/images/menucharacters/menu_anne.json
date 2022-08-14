@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Anne ok0",
+	"idle_anim": "Anne idle dance0",
+	"position": [
+		164,
+		84
+	],
+	"scale": 0.75,
+	"image": "BF-ANNE_MENU_ASSETS",
+	"flipX": false
+}

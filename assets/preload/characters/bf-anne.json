@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Anne idle dance0"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Anne Sing Note RIGHT0"
+		},
+		{
+			"offsets": [
+				-15,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Anne note DOWN MISS0"
+		},
+		{
+			"offsets": [
+				8,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Anne note UP MISS"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Anne note RIGHT MISS0"
+		},
+		{
+			"offsets": [
+				-15,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Anne Sing Note DOWN0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Anne Sing Note UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Anne Sing Note LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Anne note LEFT MISS0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Anne Sing Note DOWN0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Anne firstDEATH0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "Anne deathLOOP0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Anne deathLOOP0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF-ANNE_ASSETS",
+	"position": [
+		-50,
+		40
+	],
+	"healthicon": "anne",
+	"flip_x": true,
+	"healthbar_colors": [
+		213,
+		231,
+		207
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

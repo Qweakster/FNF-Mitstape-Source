@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PHIL_MENU_ASSETS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- "Or it would be, if I had Adobe Animate. Notepad works too, though."-->
+	<SubTexture name="Phil Dancing Beat0000" x="0" y="0" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0001" x="0" y="0" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0002" x="739" y="0" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0003" x="739" y="0" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0004" x="1478" y="0" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0005" x="1478" y="0" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0006" x="2217" y="0" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0007" x="2217" y="0" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0008" x="2217" y="0" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0009" x="0" y="554" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0010" x="0" y="554" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0011" x="739" y="554" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0012" x="739" y="554" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0013" x="1478" y="554" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0014" x="1478" y="554" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0015" x="2217" y="554" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0016" x="2217" y="554" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+	<SubTexture name="Phil Dancing Beat0017" x="2217" y="554" width="739" height="554" frameX="0" frameY="0" frameWidth="739" frameHeight="554"/>
+
+</TextureAtlas>

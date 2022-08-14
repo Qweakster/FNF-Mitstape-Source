@@ -1,0 +1,32 @@
+{
+	"storyName": "Utsos Have it Easy",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "tld",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menu_fai",
+		"menu_anne",
+		"menu_phil"
+	],
+	"songs": [
+		[
+			"The Chondria Song",
+			"fai",
+			[
+				206,
+				113,
+				235
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "TLD Week",
+	"hiddenUntilUnlocked": false
+}
